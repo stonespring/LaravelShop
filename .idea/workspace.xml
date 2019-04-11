@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0cd6819-1d1b-4dda-b802-cfaf37a72078" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../915admin/action/pubAction.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stone/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stone/stone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/accountAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/activeAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/adcostAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/addomainAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/agentfluxAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/agentinfoAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/ajaxAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/analyzeAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/apiAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/certifyAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/chartsAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/cheatAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/cnlclassAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/compareAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/dataAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/datasumAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/docsAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/fluxAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/gameAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/game_newsAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/gameanalyzeAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/gh_agentdataAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/gh_gamedataAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/gh_gameinfoAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/hm_agentAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/hm_channelAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/incomestaAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/logmanageAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/marketpayAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/mediaAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/neifuAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/neifuAction.class.php.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/openplanAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/payAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/playlogAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/pubAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/recovery_analysis.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/recovery_analysisAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/regAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/serverAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/serviceAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/statisAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/structureAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_adcostAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_adreportAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_compareAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_dataimportAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_datasumAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_gameanalyzemAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_incomestaAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_opendataAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_openplanAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_playlogAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_pubAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sy_rebateAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/sysAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/unionAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/upadsAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/wdAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/weblogAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/wechatAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action/woAction.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/Category.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/Email.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/Image.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/Ip.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/QQWry.Dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/UploadFile.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/360/api360.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/360/xcrypt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/AccountService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/AdgroupService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/CampaignService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/KeywordService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/ReportService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/bdawApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/soapclientcore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/wm/AccountService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/wm/AdService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/wm/AdgroupService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/wm/CampaignService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/wm/ReportService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu/wm/soapclientcore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/CommonService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/PHP_Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_AccountService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_AdgroupService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_AppService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_BulkJobService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_CampaignService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_CreativeService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_DynamicCreativeService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_KRService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_KeywordService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_NewCreativeService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_ReportService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/baidu_v4/sms_service_ToolkitService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/.Sogou_API_Core.php.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/AccountService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/CpcGrpService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/CpcPlanService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/CpcService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/ReportService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/sogou/Sogou_API_Core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/soso/AccountService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/soso/ReportService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/ads_api/soso/soapclientcore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/mysql.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class/upload.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/config.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/ip.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/postmsg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../infocenter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/editUserA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/editUserB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/editUserLog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/editUserState.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/extLoginUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/gmLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/gmManage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/infoUid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/ipBanList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/ipList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/ipTables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/loginLog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/mac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/massBan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/pwdBanList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/regIP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/reg_list_area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/sengMsg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/sy_loginLog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/dayDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/hourDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/week.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/active/weekDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/addbank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/agent_pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/agent_pay_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/alist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/apply_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/apply_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/baidu_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/baidu_idlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/banklist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/game_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/game_cost_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/mlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/rlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/rlist_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/slist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/slist_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/adcost/sprint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/addomain/domainList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/addomain/recordList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/addomain/sendmsg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/agentflux/af_sum_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/agentflux/af_sum_mon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/agentinfo/agent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/agentinfo/site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/IPhour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adDay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adEffectDays.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adEffectRank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adExit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adSection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adTestData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adTypeDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adsAgentEffect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/adsEffect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/analyze/hourAdSection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/checkOrders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/countOrders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/failOrders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/gameManage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/gamePlan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/incomeCount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/msgFollowA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/msgFollowB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/orders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/vip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/vip2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/vipAdmin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/vipAll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/certify/vip_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/IncomeAgentDay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/IncomeAgentMonth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/IncomeAgentWeek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/IncomeBABG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/IncomeBGBABG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/gameGoldList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/gamePayList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/qqLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/qqPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/charts/syPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cheat/average.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cheat/payarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cheat/regarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cnlclass/ad_type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cnlclass/agent_type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cnlclass/pay_type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/cnlclass/website_type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/chooseListPlatGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/chooseListPlatGameServer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/dateBetweenDays.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/duoxuan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/duoxuan_script.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/monBetweenMonths.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/sy_version_channel_game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/common/sy_version_channel_game_server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/compare/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/compare/dayAgent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/compare/monthAgent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/compare/two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/agentPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/data_cid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/detailed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/income_pay_month_autor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/income_regstatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/oldPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/searchTotal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/siteDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/data/totalTypeDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/datasum/sum_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/datasum/sum_income_pg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/datasum/sum_month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/datasum/sum_server_compare.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/datasum/sum_server_total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/datasum/superTotal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/docs/bookmark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/docs/docsGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/docs/docsList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/docs/docsType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/docs/idcFault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/flux/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/flux/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/flux/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/flux/month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/dns_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/dns_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/dns_search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/dns_setck.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/gameindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/gameindex_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/gameserver-.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/gameserver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/sy_game_package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game/sy_package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/game_news/active_news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/active1week.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/active1weekAgentDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/activeAgentDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/agentNoReg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/agentOpenServer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/dayLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/dayNewPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/dayOldLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/dayOldPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/dayOldPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/dayRegLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/gameArpu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/gameCost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/gameCostDay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/gameOldNewPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/hourOldPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/hourRegLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/monthOpen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/newIncome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/oldPlayerAgent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/openServerAnalyze.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/openServerDayList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/role_adid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/role_agent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/searchOpen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/serverRegLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gameanalyze/user_keep_hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentadd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentapply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentapply_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentedit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentextend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentextendedit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentpay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_agentdata/agentpay_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gamedata/paylog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gamedata/paytop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gamedata/reglog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gamedata/regpay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gamedata/regpay_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/alterH5CpConfig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/alterH5UiUserConfig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/alterh5GameConfig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gameadd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gamecode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gameedit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gamelist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gameplan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gameplan_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/gameplan_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/h5CpConfigList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/h5UiUserConfig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/h5_local_push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/h5_local_push_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/gh_gameinfo/h5config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_agent/agent_details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_agent/agent_remain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_agent/agent_total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_agent/reg_hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_agent/site_details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_agent/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/ad_analysis_hour_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/adid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/adidTotal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/agent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/agent_cid_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/gameArr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/ltv.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/phone.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/share_agent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/siite_analysis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_analysis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_analysis2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_analysis_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_analysis_hour_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_analysis_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_analysis_new_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/site_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/total_ios.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hm_channel/total_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_agent_show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_alldata_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_datasum_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_day_reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_days_openser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_game_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_inoutcontr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_labour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_mon_reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_oplay_active.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_oplay_away.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_pay_month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_rec_place.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_regstatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_sta_allinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_sta_allser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_sta_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_sta_hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_sta_month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_sta_regtime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_success_ratio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_yt_contrast.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/incomesta/income_yt_contrast_month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/index_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/addstatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/allip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/attacktime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/ipaddress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/singleip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/singleip.html.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/logmanage/sy_login_pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/marketpay/arpu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/marketpay/day_pay_agent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/marketpay/detailed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/marketpay/sum_server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/marketpay/sum_server2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/marketpay/top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/agentList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/analyze.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/softData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/media/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/QCReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/QCReportSearch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/RetainUsers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/RetainUsersSearch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/dailyWork.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/dailyWorkSearch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/income_days_openser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/monthEffect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/personManage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/settleGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/settleGame.html.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/settleGamePay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/vipAdd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/vipAdd.html.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/vipListA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/vipListB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/vipListB.html.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/vipPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/neifu/yeji.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/openplan/open_plan_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/openplan/open_plan_check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/openplan/open_plan_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/openplan/open_plan_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/ActivityPrizeApply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/ActivityPrizeList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/getMsg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/goldReissue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/goldReissueDo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/goldReissueList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/payGift.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/payList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/payRefund.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/payTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/payTestCheck.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/queryFailOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/queryGold.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/queryOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/queryPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/queryTrade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/queryUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/pay/syYybPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/playlog/llogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/playlog/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/playlog/reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/playlog/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/playlog/zone_users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/recovery_analysis/ltv.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/day_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/hour_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/month_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/reg/site_hour_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/idc_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/idc_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/jigui_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/jigui_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/jigui_total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/key_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/key_author.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/key_author_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/key_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/key_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/key_log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/plat_game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/plat_game_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/project_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/sList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/server_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/server_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/server_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/server_log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/server_map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/server/server_use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/GMInfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/appeal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/handover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/kf53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/questions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/questionsCount.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/reportData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/rimWorkOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/safeLog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/server_wall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/serversInfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/takeWork.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/service/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/baidu_aw_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/baidu_jj_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/baidu_wm_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/gameEffectJJ.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/gameEffectWM.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/get_bdaw_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/get_bdwm_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/get_bdwm_domain_daily.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/get_jj_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/get_jj_keyword_daily.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/qh360_jj_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/sogou_jj_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/statis/userGameEffect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/structure/costpay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/structure/ratio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/addbank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/agent_pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/agent_pay_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/alist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/apply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/apply_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/apply_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/baidu_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/baidu_idlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/bankapply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/bankcheck.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/banklist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_company.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_idlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_idlist_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_mlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_mlist_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_pay_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_rlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/co_rlist_fk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/contract.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/game_cost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/game_cost_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/mlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/rebateconfig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/rlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/rlist_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/slist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/slist.html_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/slist_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adcost/sprint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/BaiduData_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/BaiduData_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/Baidu_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/Jr_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/MomoData_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/MomoData_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/Momo_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/ToutiaoData_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/ToutiaoData_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/Toutiao_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/UcData_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/UcData_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_adreport/Uc_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_compare/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_compare/dayAgent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_compare/monthAgent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_compare/two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_dataimport/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/app_data_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/app_reg_hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/newIncome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/sum_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/sum_income_vag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/sum_month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/sum_server_total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_datasum/syPay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_gameanalyzem/dayOldPlayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_gameanalyzem/day_active_sta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_gameanalyzem/day_reg_analysis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_gameanalyzem/hour_reg_analysis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_gameanalyzem/week_active_sta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/income_days_openser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/income_pay_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/income_pay_month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/income_sta_allinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/recharge_details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/recharge_rank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_incomesta/server_fromOpen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_opendata/channel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_opendata/channel_ios.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_opendata/opendata.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_openplan/agentlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_openplan/channel_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_openplan/gamelist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_openplan/open_plan_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_openplan/platlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_playlog/llogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_playlog/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_playlog/reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_playlog/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_playlog/zone_users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_rebate/countOrders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_rebate/now_rebate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sy_rebate/rebate_lczg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/ajaxLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/editUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/gameAPI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/help_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/help_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/leftMenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/logs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/menu_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/menu_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/permission.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/pmgroup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/useradd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/sys/userlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/union/cpslist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/union/huido.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/union/huilist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/union/xudo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/union/xulist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/add_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/bdaw_user_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/bdjj_user_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/bdwm_user_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/jj360_user_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/load_360jj_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/load_bdaw_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/load_bdjj_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/load_bdwm_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/load_sgjj_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/sgjj_user_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/update_360jj_url.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/update_bdaw_url.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/update_bdwm_url.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/update_sgjj_url.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/update_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/upads/update_user_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wd/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/weblog/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/weblog/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/weblog/hour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/weblog/month.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/action.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/addaction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/addconfig.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/addmenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/addreply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/addtext_deal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/exportgift.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/gift.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/menutree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/reply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wechat/text_deal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/count.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/invalid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/submit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/take.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/wo/user.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/slack-notification-channel" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LaravelShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LaravelShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LaravelShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LaravelShop" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cd6819-1d1b-4dda-b802-cfaf37a72078" name="Default Changelist" comment="" />
+      <created>1554957384023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554957384023</updated>
+      <workItem from="1554957385321" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="592000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
