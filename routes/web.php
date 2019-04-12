@@ -17,4 +17,7 @@
 Route::get('/', 'PagesController@root')->name('root')->middleware('verified');  // 在之前的路由后面配上中间件
 Auth::routes(['verify' => true]); // 在之前的路由里加上一个 verify 参数
 
+Route::group(['middleware' => ['auth', 'verified']], function() {
+    Route::get('user_addresses', 'UserAddressesController@index')->name('user_addresses.index');
+});
 //Route::get('/home', 'HomeController@index')->name('home');
