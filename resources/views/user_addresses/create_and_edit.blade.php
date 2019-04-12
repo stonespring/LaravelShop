@@ -1,13 +1,12 @@
 @extends('layouts.app')
-@section('title', '新增收货地址')
-
+@section('title', ($address->id ? '修改': '新增') . '收货地址')
 @section('content')
     <div class="row">
         <div class="col-md-10 offset-lg-1">
             <div class="card">
                 <div class="card-header">
                     <h2 class="text-center">
-                        新增收货地址
+                        {{ $address->id ? '修改': '新增' }}收货地址
                     </h2>
                 </div>
                 <div class="card-body">
@@ -29,7 +28,7 @@
                             <!-- 引入 csrf token 字段 -->
                         {{ csrf_field() }}
                         <!-- 注意这里多了 @change -->
-                            <select-district @change="onDistrictChanged" inline-template>
+                            <select-district :init-value="{{ json_encode([$address->province, $address->city, $address->district]) }}" @change="onDistrictChanged" inline-template>
                                 <div class="form-group row">
                                     <label class="col-form-label col-sm-2 text-md-right">省市区</label>
                                     <div class="col-sm-3">
@@ -88,7 +87,14 @@
                                 </div>
                             </div>
                         </form>
-                    </user-addresses-create-and-edit>
+                        <user-addresses-create-and-edit inline-template>
+                            @if($address->id)
+                                <form class="form-horizontal" role="form" action="{{ route('user_addresses.update', ['user_address' => $address->id]) }}" method="post">
+                                    {{ method_field('PUT') }}
+                                    @else
+                                        <form class="form-horizontal" role="form" action="{{ route('user_addresses.store') }}" method="post">
+                            @endif
+                            {{ csrf_field() }}
                 </div>
             </div>
         </div>
