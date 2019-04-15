@@ -16,6 +16,7 @@
 //});
 Route::redirect('/', '/products')->name('root');
 Route::get('products', 'ProductsController@index')->name('products.index');
+Route::get('products/{product}', 'ProductsController@show')->name('products.show');
 //Route::get('/', 'PagesController@root')->name('root')->middleware('verified');  // 在之前的路由后面配上中间件
 Auth::routes(['verify' => true]); // 在之前的路由里加上一个 verify 参数
 
@@ -26,6 +27,7 @@ Route::group(['middleware' => ['auth', 'verified']], function() {
     Route::get('user_addresses/{user_address}', 'UserAddressesController@edit')->name('user_addresses.edit');
     Route::put('user_addresses/{user_address}', 'UserAddressesController@update')->name('user_addresses.update');
     Route::delete('user_addresses/{user_address}', 'UserAddressesController@destroy')->name('user_addresses.destroy');
+
 
 });
 //Route::get('/home', 'HomeController@index')->name('home');
